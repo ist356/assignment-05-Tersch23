@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import pandaslib as pl
+import os
+
+# Check if the cache directory exists, if not, create it
+if not os.path.exists('cache'):
+    os.makedirs('cache')
 
 #TODO Write your extraction code here
 
