@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jacob VonTersch
+Sudent Email:  jvonters@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,14 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+What did you learn? 
+- I learned about merging dataframes. I learned about the concat function. I learned how to create new columns in dataframes with what I want to see and also how to clean up the information inside of a column. I learned how to save something to cache. I learned how to save into buckets. 
+
+What confuses you? 
+- I dont understand how the cache works. I get that I was storing data in there, but im not sure how and where exactly it is and where it is going. I dont like to lose information and I feel like i was.
+
+Where did you struggle? 
+- I struggled with part 3, I am not sure if I got that part correct or not with the buckets because the place I went to I have never been before so i didnt exactly know what I was looking at. I checked the solution and copied that so hopefully it is working properly.
+
+Where might you need more practice?
+- I need more practice building pipelines. There is a lot going on and I need to get better at allocating enough time to finish these assignments. Doing this is not easy so I just need more practice all together
